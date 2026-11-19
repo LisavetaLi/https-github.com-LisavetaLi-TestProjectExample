@@ -126,9 +126,9 @@ namespace Topic4
             //}
             //Console.WriteLine();
 
-            Console.WriteLine("==================================================");
+            Console.WriteLine();
             Console.WriteLine("   Программа завершена.");
-            Console.WriteLine("==================================================");
+            Console.WriteLine();
             Console.ReadLine();
         }
     }
