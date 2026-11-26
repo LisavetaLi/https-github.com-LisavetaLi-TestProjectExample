@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../LikhanovaТест/LikhanovaТест.csproj" />
+  <Project Path="LikhanovaLibraryLib/LikhanovaLibraryLib.csproj" />
+</Solution>
